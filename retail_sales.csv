@@ -1,0 +1,11 @@
+order_id,customer_id,product,category,region,sales,profit
+1001,C101,Laptop,Electronics,North,55000,8000
+1002,C102,Mouse,Electronics,South,500,120
+1003,C103,Keyboard,Electronics,West,1200,200
+1004,C104,Chair,Furniture,North,7000,1500
+1005,C105,Desk,Furniture,East,12000,2500
+1006,C106,Headphones,Electronics,West,2000,400
+1007,C107,Notebook,Stationery,South,200,50
+1008,C108,Pen,Stationery,North,100,20
+1009,C109,Monitor,Electronics,East,15000,3000
+1010,C110,Table,Furniture,West,9000,2000
