@@ -37,4 +37,13 @@ average_profit = sum(profit_list) / len(profit_list)
 print("Total Sales:", total_sales)
 print("Average Profit:", average_profit)
 print("Best Product:", best_product)
+
 print("Products with Sales > 5000:", products_above_5000)
+
+#OUTPUT
+'''
+Total Sales: 101000
+Average Profit: 1779.0
+Best Product: Laptop
+Products with Sales > 5000: ['Laptop', 'Chair', 'Desk', 'Monitor', 'Table']
+```
